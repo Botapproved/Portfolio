@@ -2,7 +2,7 @@
 ## Access My Portfolio Website From Below
 
 [Website Link](
-https://botapproved.github.io/Portfolio/)
+https://sam.vosnet.co.in)
 
 
 ## Contact
